@@ -26,4 +26,4 @@
   
   ![image](https://user-images.githubusercontent.com/86382671/200198947-757b9d59-0bfd-457f-b3c0-5c0b30319e93.png)
   
-  Segue o link do Figma contendo todas as telas planejadas e desenhadas pela equipe, com todas as áreas clicáveis referentes a este protótipo de extensão do App Mobile do Santander: https://www.figma.com/file/lCghQR1j6ezxp7DFwZxJiG/Universia-Viagens?node-id=0%3A1
+  Segue o link do Figma contendo todas as telas planejadas e desenhadas pela equipe, com todas as áreas clicáveis referentes a este protótipo de extensão do App Mobile do Santander: [Figma](https://www.figma.com/file/lCghQR1j6ezxp7DFwZxJiG/Universia-Viagens)
